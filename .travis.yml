@@ -3,4 +3,8 @@ rvm:
   - 1.9.3
 notifications:
   webhooks:
+   urls:
     - http://requestb.in/11ykzva1
+   on_success: always
+   on_failure: always
+   on_start: true
