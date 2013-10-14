@@ -1,0 +1,3 @@
+:tddium:
+  :tests:
+    - make test       # one test
