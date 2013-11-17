@@ -3,4 +3,5 @@ notify:
     - url: http://requestb.in/sacdv3sa
 test:
   override:
-    - ruby test.rb
+  #  - ruby test.rb
+    - exit 1
